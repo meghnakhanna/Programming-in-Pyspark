@@ -10,5 +10,8 @@ Compilation of classification algorithms
 Jupyter Notebook with Python 3
 Pyspark installation on the Jupyter Notebook
 
+# Setup
+Install pyspark from within juputer notebook
+!pip install pyspark
 
   
